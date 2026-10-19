@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 600" width="1280" height="600" role="img" aria-label="How these projects fit together">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="How these projects fit together">
 <title>How these projects fit together</title>
-<defs><marker id="m0078D4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0078D4"/></marker><marker id="m0078D4s" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#0078D4"/></marker></defs>
-<rect width="1280" height="600" fill="#fff"/>
+<defs><marker id="m0078D4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0078D4"/></marker><marker id="m0078D4s" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#0078D4"/></marker><marker id="m5C2D91" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5C2D91"/></marker><marker id="m5C2D91s" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#5C2D91"/></marker></defs>
+<rect width="1280" height="720" fill="#fff"/>
 <rect x="0" y="0" width="1280" height="6" fill="#0078D4"/>
 <text x="32" y="48" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#201F1E">How these projects fit together</text>
-<text x="32" y="72" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#605E5C">Build Microsoft cloud environments to a documented standard, prove the settings hold, then assess and report against the frameworks.</text>
+<text x="32" y="72" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#605E5C">Build Microsoft cloud environments to a documented standard, prove the settings hold, assess against the frameworks, and write every procedure down.</text>
 <rect x="32" y="100" width="380" height="360" rx="6" fill="#F3F9FD" stroke="#0078D4" stroke-width="1.4" stroke-dasharray="6 4"/>
 <g transform="translate(42,108) scale(0.5000)"><rect x="4" y="8" width="32" height="22" rx="2" fill="#0078D4"/><rect x="7" y="11" width="26" height="16" fill="#fff"/><rect x="14" y="30" width="12" height="4" fill="#0078D4"/><rect x="28" y="18" width="16" height="26" rx="2" fill="#005A9E"/><rect x="30" y="21" width="12" height="18" fill="#fff"/><path d="M10 19 l5 4 9-8" stroke="#107C10" stroke-width="2.6" fill="none"/></g>
 <text x="74" y="125" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#0078D4" text-anchor="start">Build it</text>
@@ -14,6 +14,9 @@
 <rect x="868" y="100" width="380" height="360" rx="6" fill="#F6FBF6" stroke="#107C10" stroke-width="1.4" stroke-dasharray="6 4"/>
 <g transform="translate(878,108) scale(0.5000)"><rect x="4" y="6" width="40" height="36" rx="2" fill="#0078D4"/><path d="M4 16 h40 M4 25 h40 M4 34 h40 M16 6 v36" stroke="#fff" stroke-width="1.8"/></g>
 <text x="910" y="125" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#107C10" text-anchor="start">Assess and report</text>
+<rect x="32" y="490" width="1216" height="120" rx="6" fill="#FAF6FD" stroke="#5C2D91" stroke-width="1.4" stroke-dasharray="6 4"/>
+<g transform="translate(42,498) scale(0.5000)"><path d="M10 4 h20 l8 8 v32 h-28 Z" fill="#0078D4"/><path d="M30 4 v8 h8" fill="#fff" opacity=".5"/><path d="M15 22 h18 M15 28 h18 M15 34 h12" stroke="#fff" stroke-width="2.4"/></g>
+<text x="74" y="515" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#5C2D91" text-anchor="start">Write it down</text>
 <rect x="53.5" y="144" width="340" height="50" rx="5" fill="#000" opacity="0.06"/>
 <rect x="52" y="142" width="340" height="50" rx="5" fill="#fff" stroke="#C8C6C4" stroke-width="1"/>
 <rect x="53.5" y="201" width="340" height="50" rx="5" fill="#000" opacity="0.06"/>
@@ -38,6 +41,9 @@
 <rect x="888" y="336" width="340" height="84" rx="5" fill="#fff" stroke="#C8C6C4" stroke-width="1"/>
 <path d="M412,280 L448,280" fill="none" stroke="#0078D4" stroke-width="2.6" marker-end="url(#m0078D4)" stroke-linejoin="round"/>
 <path d="M830,280 L866,280" fill="none" stroke="#0078D4" stroke-width="2.6" marker-end="url(#m0078D4)" stroke-linejoin="round"/>
+<path d="M222,460 L222,488" fill="none" stroke="#5C2D91" stroke-width="2" marker-end="url(#m5C2D91)" stroke-linejoin="round"/>
+<path d="M640,460 L640,488" fill="none" stroke="#5C2D91" stroke-width="2" marker-end="url(#m5C2D91)" stroke-linejoin="round"/>
+<path d="M1058,460 L1058,488" fill="none" stroke="#5C2D91" stroke-width="2" marker-end="url(#m5C2D91)" stroke-linejoin="round"/>
 <text x="52" y="446" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" font-size="12" font-weight="600" fill="#605E5C" text-anchor="start">Repo: endpoint-identity-runbooks</text>
 <text x="470" y="446" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" font-size="12" font-weight="600" fill="#605E5C" text-anchor="start">Repo: azure-posture-check</text>
 <text x="888" y="446" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" font-size="12" font-weight="600" fill="#605E5C" text-anchor="start">Repo: security-assessment-toolkit</text>
@@ -75,18 +81,34 @@
 <text x="952" y="360" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#201F1E" text-anchor="start">Compliance mapping</text>
 <text x="952" y="378" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#605E5C" text-anchor="start">CSF 2.0 · 800-53 · ISO 27001</text>
 <text x="952" y="395" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#605E5C" text-anchor="start">Met / Partial / Gap</text>
-<text x="32" y="500" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#201F1E" text-anchor="start">Frameworks referenced throughout</text>
-<rect x="32" y="514" width="162.89999999999998" height="22" rx="11" fill="#DEECF9"/>
-<text x="113.44999999999999" y="529.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">NIST SP 800-53 Rev. 5</text>
-<rect x="204.89999999999998" y="514" width="100.8" height="22" rx="11" fill="#DEECF9"/>
-<text x="255.29999999999998" y="529.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">NIST CSF 2.0</text>
-<rect x="315.7" y="514" width="142.2" height="22" rx="11" fill="#DEECF9"/>
-<text x="386.79999999999995" y="529.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">ISO/IEC 27001:2022</text>
-<rect x="467.9" y="514" width="176.7" height="22" rx="11" fill="#DEECF9"/>
-<text x="556.25" y="529.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">21 CFR Part 11 · ALCOA+</text>
-<rect x="654.5999999999999" y="514" width="52.5" height="22" rx="11" fill="#DEECF9"/>
-<text x="680.8499999999999" y="529.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">SOC 2</text>
-<line x1="32" y1="566" x2="1248" y2="566" stroke="#E1DFDD"/>
-<text x="32" y="586" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#8A8886">Generalised design: no client names, tenant IDs, addresses or data. Icons are simplified originals, not Microsoft artwork.</text>
-<text x="1248" y="586" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#8A8886" text-anchor="end">Rich Dieu · github.com/richdieu-max</text>
+<text x="1232" y="515" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" font-size="12" font-weight="600" fill="#605E5C" text-anchor="end">Repo: sop-library</text>
+<text x="56" y="572" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#5C2D91" text-anchor="start">36</text>
+<text x="56" y="594" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#605E5C" text-anchor="start">procedures</text>
+<text x="206" y="572" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#5C2D91" text-anchor="start">802</text>
+<text x="206" y="594" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#605E5C" text-anchor="start">pages</text>
+<text x="356" y="572" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#5C2D91" text-anchor="start">12</text>
+<text x="356" y="594" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#605E5C" text-anchor="start">technology families</text>
+<text x="520" y="556" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="400" fill="#201F1E" text-anchor="start">Each SOP: concepts first, then the portal, then PowerShell / CLI, then at scale</text>
+<text x="520" y="574" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="400" fill="#201F1E" text-anchor="start">(GPO, Intune, templates), ending with verification, rollback and troubleshooting.</text>
+<text x="520" y="592" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="400" fill="#201F1E" text-anchor="start">Azure · Entra ID · Intune · security ops · GxP lab IT · Windows support · M365</text>
+<text x="32" y="646" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#201F1E" text-anchor="start">Frameworks referenced throughout</text>
+<rect x="32" y="658" width="162.89999999999998" height="22" rx="11" fill="#DEECF9"/>
+<text x="113.44999999999999" y="673.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">NIST SP 800-53 Rev. 5</text>
+<rect x="204.89999999999998" y="658" width="100.8" height="22" rx="11" fill="#DEECF9"/>
+<text x="255.29999999999998" y="673.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">NIST CSF 2.0</text>
+<rect x="315.7" y="658" width="142.2" height="22" rx="11" fill="#DEECF9"/>
+<text x="386.79999999999995" y="673.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">ISO/IEC 27001:2022</text>
+<rect x="467.9" y="658" width="190.5" height="22" rx="11" fill="#DEECF9"/>
+<text x="563.15" y="673.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">21 CFR Part 11 · Annex 11</text>
+<rect x="668.4" y="658" width="52.5" height="22" rx="11" fill="#DEECF9"/>
+<text x="694.65" y="673.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">HIPAA</text>
+<rect x="730.9" y="658" width="66.3" height="22" rx="11" fill="#DEECF9"/>
+<text x="764.05" y="673.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">PCI DSS</text>
+<rect x="807.1999999999999" y="658" width="38.7" height="22" rx="11" fill="#DEECF9"/>
+<text x="826.55" y="673.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">CIS</text>
+<rect x="855.9" y="658" width="52.5" height="22" rx="11" fill="#DEECF9"/>
+<text x="882.15" y="673.5" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" fill="#005A9E" text-anchor="middle">SOC 2</text>
+<line x1="32" y1="686" x2="1248" y2="686" stroke="#E1DFDD"/>
+<text x="32" y="706" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#8A8886">Generalised design: no client names, tenant IDs, addresses or data. Icons are simplified originals, not Microsoft artwork.</text>
+<text x="1248" y="706" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#8A8886" text-anchor="end">Rich Dieu · github.com/richdieu-max</text>
 </svg>
