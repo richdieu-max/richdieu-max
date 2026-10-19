@@ -12,6 +12,8 @@ I build and secure Microsoft cloud environments for organisations that get audit
 - **Automation:** PowerShell and Microsoft Graph, read-only evidence collection, Python for reporting
 - **Compliance:** NIST SP 800-53 and CSF 2.0, ISO/IEC 27001, 21 CFR Part 11 and ALCOA+ data integrity, audit-ready documentation
 
+![How the projects fit together: build with the runbooks, prove with azure-posture-check, assess and report with security-assessment-toolkit](assets/portfolio-overview.svg)
+
 ### Projects by discipline
 
 **Cloud security & automation**
