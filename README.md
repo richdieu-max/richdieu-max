@@ -2,7 +2,7 @@
 
 **Cloud, Identity & Endpoint Security Engineer · Azure · Entra ID · Intune · Microsoft 365 · NIST 800-53 · GxP**
 
-I build and secure Microsoft cloud environments for organisations that get audited: pharmaceutical and biotech R&D, legal, and compliance software. About seven years in, from help desk to system administration to cloud and security engineering, with the same habit throughout: if it isn't documented and evidenced, it isn't done. The [SOP library](https://github.com/richdieu-max/sop-library) is the proof: 36 runbooks with 54 architecture and flow diagrams, each one written from work I have done.
+I build and secure Microsoft cloud environments for organisations that get audited: pharmaceutical and biotech R&D, legal, and compliance software. About seven years in, from help desk to system administration to cloud and security engineering, with the same habit throughout: if it isn't documented and evidenced, it isn't done. The [SOP library](https://github.com/richdieu-max/sop-library) is the proof: 36 runbooks with 109 architecture, flow and concept diagrams, each one written from work I have done.
 
 ![Skill map: nine areas of hands-on work and the SOPs that document each one](assets/skill-map.svg)
 
@@ -26,7 +26,7 @@ I build and secure Microsoft cloud environments for organisations that get audit
 
 | Project | What it is |
 |---|---|
-| [sop-library](https://github.com/richdieu-max/sop-library) | 36 runbooks with 54 diagrams across Azure, Entra ID, Intune, security operations, GxP lab IT and Windows support: portal steps, PowerShell / CLI, at-scale methods, verification, rollback and control mapping |
+| [sop-library](https://github.com/richdieu-max/sop-library) | 36 runbooks with 109 diagrams across Azure, Entra ID, Intune, security operations, GxP lab IT and Windows support: portal steps, PowerShell / CLI, at-scale methods, verification, rollback and control mapping |
 | [azure-posture-check](https://github.com/richdieu-max/azure-posture-check) | Read-only PowerShell posture check for an Azure subscription: PASS/WARN/FAIL per control, NIST mapping, SHA-256 evidence manifest, Pester tests in CI |
 | [security-assessment-toolkit](https://github.com/richdieu-max/security-assessment-toolkit) | The workbook behind my assessments: threat model, risk register with formula-driven severity, control register, compliance mapping, logging validation |
 | [endpoint-identity-runbooks](https://github.com/richdieu-max/endpoint-identity-runbooks) | Short-form runbooks with architecture diagrams and control mappings |
