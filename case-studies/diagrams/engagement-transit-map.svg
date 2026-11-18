@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Case study: the engagement as a transit map">
+<title>Case study: the engagement as a transit map</title>
+<defs></defs>
+<rect x="0" y="0" width="1280" height="720" rx="0" fill="#0D1117" stroke="none" stroke-width="1.2"/>
+<rect x="0" y="0" width="1280" height="6" rx="0" fill="#1F6FEB" stroke="none" stroke-width="1.2"/>
+<text x="32" y="48" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#E6EDF3" text-anchor="start">Case study: the engagement as a transit map</text>
+<text x="32" y="74" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="400" fill="#9198A1" text-anchor="start">Three lines run side by side from signed scope to handover. Every station left evidence behind.</text>
+<path d="M190,210 L1210,210" fill="none" stroke="#4493F8" stroke-width="8" stroke-linejoin="round"/>
+<text x="40" y="215" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#4493F8" text-anchor="start">Build</text>
+<path d="M190,360 L1210,360" fill="none" stroke="#3FB950" stroke-width="8" stroke-linejoin="round"/>
+<text x="40" y="365" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#3FB950" text-anchor="start">Evidence</text>
+<path d="M190,510 L1210,510" fill="none" stroke="#AB7DF8" stroke-width="8" stroke-linejoin="round"/>
+<text x="40" y="515" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#AB7DF8" text-anchor="start">Governance</text>
+<circle cx="190" cy="210" r="12" fill="#0D1117" stroke="#4493F8" stroke-width="4"/>
+<text x="190" y="184" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Scope signed</text>
+<circle cx="362" cy="210" r="12" fill="#0D1117" stroke="#4493F8" stroke-width="4"/>
+<text x="362" y="246" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Preflight gates</text>
+<circle cx="534" cy="210" r="12" fill="#0D1117" stroke="#4493F8" stroke-width="4"/>
+<text x="534" y="184" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Foundation</text>
+<circle cx="706" cy="210" r="12" fill="#0D1117" stroke="#4493F8" stroke-width="4"/>
+<text x="706" y="246" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">First stamp</text>
+<circle cx="878" cy="210" r="12" fill="#0D1117" stroke="#4493F8" stroke-width="4"/>
+<text x="878" y="184" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Fixes with app team</text>
+<circle cx="1050" cy="210" r="12" fill="#0D1117" stroke="#4493F8" stroke-width="4"/>
+<text x="1050" y="246" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Score plan</text>
+<circle cx="1210" cy="210" r="12" fill="#0D1117" stroke="#4493F8" stroke-width="4"/>
+<text x="1210" y="184" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Handover (next)</text>
+<circle cx="362" cy="360" r="12" fill="#0D1117" stroke="#3FB950" stroke-width="4"/>
+<text x="362" y="396" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Gate runs</text>
+<circle cx="534" cy="360" r="12" fill="#0D1117" stroke="#3FB950" stroke-width="4"/>
+<text x="534" y="334" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Build evidence</text>
+<circle cx="706" cy="360" r="12" fill="#0D1117" stroke="#3FB950" stroke-width="4"/>
+<text x="706" y="396" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Posture + register</text>
+<circle cx="878" cy="360" r="12" fill="#0D1117" stroke="#3FB950" stroke-width="4"/>
+<text x="878" y="334" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Before / after</text>
+<circle cx="1050" cy="360" r="12" fill="#0D1117" stroke="#3FB950" stroke-width="4"/>
+<text x="1050" y="396" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Scan + triage</text>
+<circle cx="1210" cy="360" r="12" fill="#0D1117" stroke="#3FB950" stroke-width="4"/>
+<text x="1210" y="334" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Final report (next)</text>
+<circle cx="190" cy="510" r="12" fill="#0D1117" stroke="#AB7DF8" stroke-width="4"/>
+<text x="190" y="484" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Infra-only scope</text>
+<circle cx="362" cy="510" r="12" fill="#0D1117" stroke="#AB7DF8" stroke-width="4"/>
+<text x="362" y="546" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Access asks</text>
+<circle cx="534" cy="510" r="12" fill="#0D1117" stroke="#AB7DF8" stroke-width="4"/>
+<text x="534" y="484" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Naming rule</text>
+<circle cx="706" cy="510" r="12" fill="#0D1117" stroke="#AB7DF8" stroke-width="4"/>
+<text x="706" y="546" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Exceptions register</text>
+<circle cx="878" cy="510" r="12" fill="#0D1117" stroke="#AB7DF8" stroke-width="4"/>
+<text x="878" y="484" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Advisory map</text>
+<circle cx="1050" cy="510" r="12" fill="#0D1117" stroke="#AB7DF8" stroke-width="4"/>
+<text x="1050" y="546" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Unlocked WORM</text>
+<circle cx="1210" cy="510" r="12" fill="#0D1117" stroke="#AB7DF8" stroke-width="4"/>
+<text x="1210" y="484" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3" text-anchor="middle">Access removal (next)</text>
+<rect x="346" y="190" width="32" height="340" rx="16" fill="none" stroke="#9198A1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<rect x="518" y="190" width="32" height="340" rx="16" fill="none" stroke="#9198A1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<rect x="862" y="190" width="32" height="340" rx="16" fill="none" stroke="#9198A1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<rect x="1194" y="190" width="32" height="340" rx="16" fill="none" stroke="#9198A1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<rect x="41.5" y="594" width="390" height="104" rx="6" fill="#000" stroke="none" stroke-width="1.2" opacity="0.25"/>
+<rect x="40" y="592" width="390" height="104" rx="6" fill="#1C2128" stroke="#3D444D" stroke-width="1"/>
+<rect x="40" y="592" width="4" height="104" rx="2" fill="#D29922" stroke="none" stroke-width="1.2"/>
+<text x="54" y="614" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#D29922" text-anchor="start">Gates before building</text>
+<text x="54" y="634" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#9198A1" text-anchor="start">Guest account, an Owner role with a condition, zero</text>
+<text x="54" y="652" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#9198A1" text-anchor="start">VM quota, no right to create groups. Each was found</text>
+<text x="54" y="670" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#9198A1" text-anchor="start">read-only, asked for once, and logged.</text>
+<rect x="451.5" y="594" width="390" height="104" rx="6" fill="#000" stroke="none" stroke-width="1.2" opacity="0.25"/>
+<rect x="450" y="592" width="390" height="104" rx="6" fill="#1C2128" stroke="#3D444D" stroke-width="1"/>
+<rect x="450" y="592" width="4" height="104" rx="2" fill="#3FB950" stroke="none" stroke-width="1.2"/>
+<text x="464" y="614" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#3FB950" text-anchor="start">Fix without breaking</text>
+<text x="464" y="634" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#9198A1" text-anchor="start">Workload-dependent fixes went into an exceptions</text>
+<text x="464" y="652" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#9198A1" text-anchor="start">register with a reason and review date instead of</text>
+<text x="464" y="670" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#9198A1" text-anchor="start">being forced.</text>
+<rect x="861.5" y="594" width="390" height="104" rx="6" fill="#000" stroke="none" stroke-width="1.2" opacity="0.25"/>
+<rect x="860" y="592" width="390" height="104" rx="6" fill="#1C2128" stroke="#3D444D" stroke-width="1"/>
+<rect x="860" y="592" width="4" height="104" rx="2" fill="#AB7DF8" stroke="none" stroke-width="1.2"/>
+<text x="874" y="614" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#AB7DF8" text-anchor="start">One-way doors stay with the owner</text>
+<text x="874" y="634" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#9198A1" text-anchor="start">Log archive retention delivered unlocked; the lock</text>
+<text x="874" y="652" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#9198A1" text-anchor="start">and the removal of standing build access are handover</text>
+<text x="874" y="670" font-family="'Segoe UI', 'Segoe UI Web', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#9198A1" text-anchor="start">steps.</text>
+</svg>

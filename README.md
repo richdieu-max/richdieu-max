@@ -29,11 +29,17 @@ I build and secure cloud environments, Microsoft first, with AWS and Red Hat Ent
 | Project | What it is |
 |---|---|
 | [sop-library](https://github.com/richdieu-max/sop-library) | 44 runbooks with 125 diagrams across Azure, Entra ID, Intune, AWS, RHEL, security operations, GxP lab IT and Windows support: console steps, PowerShell / CLI, at-scale methods, verification, rollback and control mapping |
-| [azure-posture-check](https://github.com/richdieu-max/azure-posture-check) | Read-only PowerShell posture check for an Azure subscription: PASS/WARN/FAIL per control, NIST mapping, SHA-256 evidence manifest, Pester tests in CI. Also holds the Tenant Hardening Assessment SOP and script skeleton |
+| [azure-posture-check](https://github.com/richdieu-max/azure-posture-check) | Read-only PowerShell posture check for an Azure subscription: PASS/WARN/FAIL per control, NIST mapping, SHA-256 evidence manifest, Pester tests in CI. Also holds the Tenant Hardening Assessment, a [rule register grader](https://github.com/richdieu-max/azure-posture-check/tree/main/rule-register) for your own governance rules, and a [phased remediation kit](https://github.com/richdieu-max/azure-posture-check/tree/main/remediation) (safe-first fixes with before/after tests, exceptions register, Secure Score planner, threat-advisory method) |
 | [aws-posture-check](https://github.com/richdieu-max/aws-posture-check) | The same method for AWS in Python and boto3: nine areas across regions, NIST mapping, hashed evidence, pytest suite against a fictional account |
 | [rhel-hardening](https://github.com/richdieu-max/rhel-hardening) | Ansible role for a RHEL 8 and 9 baseline, proven by an OpenSCAP scan turned into hashed evidence with NIST references |
-| [security-assessment-toolkit](https://github.com/richdieu-max/security-assessment-toolkit) | The workbook behind my assessments: threat model, risk register with formula-driven severity, control register, compliance mapping, logging validation |
-| [endpoint-identity-runbooks](https://github.com/richdieu-max/endpoint-identity-runbooks) | Short-form runbooks with architecture diagrams and control mappings |
+| [security-assessment-toolkit](https://github.com/richdieu-max/security-assessment-toolkit) | The workbook behind my assessments: threat model, risk register with formula-driven severity, control register, compliance mapping, logging validation. Plus a [7-year immutable log archive and 10 KQL alert rules](https://github.com/richdieu-max/security-assessment-toolkit/tree/main/logging) and a [supply-chain scan](https://github.com/richdieu-max/security-assessment-toolkit/tree/main/supply-chain-scan) that triages findings into infrastructure and application lanes |
+| [endpoint-identity-runbooks](https://github.com/richdieu-max/endpoint-identity-runbooks) | Short-form runbooks with architecture diagrams and control mappings, plus a [landing zone and customer stamp](https://github.com/richdieu-max/endpoint-identity-runbooks/tree/main/landing-zone-stamp) skeleton in Bicep with a preflight gate check and secrets read at start-up by managed identity |
+
+### Case study
+
+**[Building and validating an Azure tenant for a SaaS launch](case-studies/azure-tenant-build-saas.md)**: an infrastructure-only engagement told end to end. A landing zone with customer stamps, the access blockers found before building, fixes made without breaking the application, and the decisions deliberately left with the owner. Sanitized: no client, person or tenant detail.
+
+[![The engagement as a transit map](case-studies/diagrams/engagement-transit-map.svg)](case-studies/azure-tenant-build-saas.md)
 
 **Runbooks**
 
